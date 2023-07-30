@@ -1,0 +1,3 @@
+- [a link to my YouTube video]()
+- [a link to my Reveal presentation's deploy]();
+- [a link to the transcript of my presentation]();
