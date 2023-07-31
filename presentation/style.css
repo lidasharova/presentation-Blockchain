@@ -1,0 +1,41 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 1;
+}
+
+.types-img {
+  width: 600px;
+}
+
+.hacking-img {
+  width: 400px;
+}
+
+.hacking-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  font-size: 25px;
+}
+
+.trilema-img {
+  width: 350px;
+}
+.trilema-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.block-img {
+  width: 700px;
+}
