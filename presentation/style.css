@@ -39,3 +39,20 @@ a {
 .block-img {
   width: 700px;
 }
+
+.web3-section {
+  font-size: 32px;
+}
+
+.web33-img {
+  width: 650px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.web3-img {
+  width: 360px;
+  border-radius: 25px;
+}
